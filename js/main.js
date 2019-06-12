@@ -15,11 +15,11 @@ angular.module('invoicing', [])
     postal:'620021'
   },
   company_info: {
-    name: 'Bite Mii',
-    web_link: 'www.bitemii.com',
+    name: 'Simple Invoice by Murugan',
+    web_link: 'www.abc.com',
     address1: 'Trichy,Tamil Nadu',
     address2: 'India',
-    postal: '620001'
+    postal: '620021'
   },
   items:[
     { qty: 10, description: 'Gadget', cost: 9.95 }
